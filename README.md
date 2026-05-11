@@ -32,4 +32,4 @@ Sostituisci `TUO-USERNAME` con il tuo username GitHub.
 
 1. Apri il Workout Manager → carica la scheda xlsx del paziente
 2. Premi 🌐 Pubblica → scarica la cartella del nuovo paziente
-3. Carica la cartella nel repo GitHub → link attivo in 2 minuti
+3. Carica la cartella nel repo GitHub → link attivo in 2 minuti 
